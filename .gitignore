@@ -1,1 +1,2 @@
-qaz, wsx, edc 
+# ignore nelow files 
+*.txt 
